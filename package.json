@@ -1,6 +1,6 @@
 {
   "name": "postcss-sass-unicode",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "PostCSS plugin for escape sass unicode characters",
   "keywords": [
     "postcss",
