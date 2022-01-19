@@ -1,4 +1,4 @@
-module.exports.creator = "Chrisitian"
+module.exports.creator = ""
 
 module.exports = (opts = {}) => {
   return {
