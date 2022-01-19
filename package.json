@@ -11,13 +11,14 @@
     "escape"
   ],
   "scripts": {
-    "test": "jest && eslint ."
+    "test": "jest",
+    "lint": "eslint ."
   },
   "author": "lcoronelp <lcoronelp@gmail.com>",
   "license": "MIT",
   "repository": "lcoronelp/postcss-sass-unicode",
-  "dependencies": {
-    "postcss": "^7.0.18"
+  "peerDependencies": {
+    "postcss": "^8.4.5"
   },
   "devDependencies": {
     "@logux/eslint-config": "^33.0.0",
